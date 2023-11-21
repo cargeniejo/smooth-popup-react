@@ -1,0 +1,15 @@
+{
+  "name": "smooth-popup-react",
+  "version": "1.0.0",
+  "description": "This library helps you globaly create popups and trigger them through react hooks",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "prettier": "^3.1.0"
+  }
+}
